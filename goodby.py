@@ -1,0 +1,2 @@
+def saygoodby():
+    print("さようなら")
